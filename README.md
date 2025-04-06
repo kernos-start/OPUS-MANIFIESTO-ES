@@ -1,4 +1,3 @@
-
 # OPUS INCÖGNITA — El Manifiesto
 
 **“La tecnología, cuando es justa, no nos aleja del espíritu. Nos devuelve a él.”**
@@ -31,7 +30,7 @@ Introduce:
 ## 🌐 Sitio web del Manifiesto
 
 Puedes explorar el manifiesto como experiencia web aquí:  
-➡️ [Coloca aquí el enlace de GitHub Pages cuando esté activo]
+➡️ [https://kernos-start.github.io/OPUS-MANIFIESTO-ES/](https://kernos-start.github.io/OPUS-MANIFIESTO-ES/)
 
 ## 🧠 Arquitectura y Visión
 
